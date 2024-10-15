@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "id": "b4f9",
+      "body": "React Hooks were introduced with the release of React v16.8.0 to much excitement. With Hooks, developers can write cleaner components with less boilerplate code in comparison to class components. Many popular React packages are supporting Hooks so developers can leverage their APIs in functional components.\n\nReact Router, the most popular routing solution for React apps, added Hooks support in its v5.0 release. Recently, the library has added even newer hooks and components, increasing its features. These React Router Hooks provide developers with new ways to handle the router state, among other essential use cases.\n\nIn this tutorial, you’ll learn how to use the some of the most important Hooks with React Router and minimize the number of code lines in a component. Let’s get started!",
+      "updated": "2024-10-15T14:04:43.805Z"
+    },
+    {
+      "id": "3f66",
+      "body": "New note is equal to \n",
+      "updated": "2024-10-15T13:56:26.875Z"
+    }
+  ]
+}
